@@ -1,0 +1,34 @@
+{
+    "Mods": [
+        {
+            "Name": "BiomesOPlenty-fabric-1.20.1-19.0.0.96.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII/raw/refs/heads/main/servidor_minecraft/mods_/BiomesOPlenty-fabric-1.20.1-19.0.0.96.jar",
+            "Optional": false
+        },
+        {
+            "Name": "GlitchCore-fabric-1.20.1-0.0.1.1.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII/raw/refs/heads/main/servidor_minecraft/mods_/GlitchCore-fabric-1.20.1-0.0.1.1.jar",
+            "Optional": false
+        },
+        {
+            "Name": "TerraBlender-fabric-1.20.1-3.0.1.10.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII/raw/refs/heads/main/servidor_minecraft/mods_/TerraBlender-fabric-1.20.1-3.0.1.10.jar",
+            "Optional": false
+        },
+        {
+            "Name": "fabric-api-0.92.5+1.20.1.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII/raw/refs/heads/main/servidor_minecraft/mods_/fabric-api-0.92.5+1.20.1.jar",
+            "Optional": false
+        },
+        {
+            "Name": "noisium-fabric-2.3.0+mc1.20-1.20.1.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII/raw/refs/heads/main/servidor_minecraft/mods_/noisium-fabric-2.3.0+mc1.20-1.20.1.jar",
+            "Optional": false
+        },
+        {
+            "Name": "tl_skin_cape_fabric_1.20_1.20.1-1.32.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII/raw/refs/heads/main/servidor_minecraft/mods_/tl_skin_cape_fabric_1.20_1.20.1-1.32.jar",
+            "Optional": false
+        }
+    ]
+}
