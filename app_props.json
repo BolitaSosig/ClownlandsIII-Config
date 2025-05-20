@@ -1,5 +1,15 @@
 {
     "Id":"HqY71dPDYVi0ZCLwPlwE6EjZlMU0TR2i6Tmu",
     "Ip":"k-we.gl.joinmc.link",
-    "CSName":"bug-free-telegram-g4pq446ppx7gcvj7v"
+    "CSName":"bug-free-telegram-g4pq446ppx7gcvj7v",
+    "Launcher": [
+        {
+            "Profile":"dev",
+            "Version":"0.1.4"
+        },
+        {
+            "Profile":"rel",
+            "Version":"0.0.0"
+        }
+    ]
 }
