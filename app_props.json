@@ -5,11 +5,13 @@
     "Launcher": [
         {
             "Profile":"dev",
-            "Version":"0.1.4"
+            "Version":"0.1.4",
+            "Url":"https://drive.usercontent.google.com/download?id=1sPFECHW8tgA0p68JrdVhhh4Mt6mXEHJu"
         },
         {
             "Profile":"rel",
-            "Version":"0.0.0"
+            "Version":"0.0.0",
+            "Url":""
         }
     ]
 }
