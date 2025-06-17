@@ -698,7 +698,7 @@
         {
             "Name": "eatinganimation-1.20.1-5.1.0.jar",
             "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/eatinganimation-1.20.1-5.1.0.jar",
-            "Optional": true
+            "Optional": false
         },
         {
             "Name": "ecologics-forge-1.20.1-2.2.0.jar",
