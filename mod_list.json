@@ -6,8 +6,8 @@
             "Optional": false
         },
         {
-            "Name": "AdLods-1.20.1-8.1.4.0-build.1012.jar",
-            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/AdLods-1.20.1-8.1.4.0-build.1012.jar",
+            "Name": "AdLods-1.20.1-8.1.5.0-build.1348.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/AdLods-1.20.1-8.1.5.0-build.1348.jar",
             "Optional": false
         },
         {
@@ -33,6 +33,11 @@
         {
             "Name": "alexscaves-2.0.2.jar",
             "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/alexscaves-2.0.2.jar",
+            "Optional": false
+        },
+        {
+            "Name": "alexscavesdelight-1.0.27-final.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/alexscavesdelight-1.0.27-final.jar",
             "Optional": false
         },
         {
@@ -136,6 +141,11 @@
             "Optional": false
         },
         {
+            "Name": "AsyncParticles-2.0.0+1.20.1.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/AsyncParticles-2.0.0+1.20.1.jar",
+            "Optional": false
+        },
+        {
             "Name": "AttributeFix-Forge-1.20.1-21.0.4.jar",
             "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/AttributeFix-Forge-1.20.1-21.0.4.jar",
             "Optional": false
@@ -146,8 +156,13 @@
             "Optional": false
         },
         {
-            "Name": "balm-forge-1.20.1-7.3.30-all.jar",
-            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/balm-forge-1.20.1-7.3.30-all.jar",
+            "Name": "baguettelib-1.20.1-Forge-1.0.0.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/baguettelib-1.20.1-Forge-1.0.0.jar",
+            "Optional": false
+        },
+        {
+            "Name": "balm-forge-1.20.1-7.3.31-all.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/balm-forge-1.20.1-7.3.31-all.jar",
             "Optional": false
         },
         {
@@ -406,13 +421,23 @@
             "Optional": false
         },
         {
-            "Name": "Cognition-v2.3.7-1.20.1.jar",
-            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/Cognition-v2.3.7-1.20.1.jar",
+            "Name": "Cognition-v2.4.6-1.20.1.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/Cognition-v2.4.6-1.20.1.jar",
             "Optional": false
         },
         {
             "Name": "collective-1.20.1-8.3.jar",
             "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/collective-1.20.1-8.3.jar",
+            "Optional": false
+        },
+        {
+            "Name": "colorwheel-forge-0.2.1+mc1.20.1.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/colorwheel-forge-0.2.1+mc1.20.1.jar",
+            "Optional": false
+        },
+        {
+            "Name": "colorwheel_patcher-forge-0.2.1+mc1.20.1.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/colorwheel_patcher-forge-0.2.1+mc1.20.1.jar",
             "Optional": false
         },
         {
@@ -451,13 +476,13 @@
             "Optional": false
         },
         {
-            "Name": "copycats-3.0.0+mc.1.20.1-forge.jar",
-            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/copycats-3.0.0+mc.1.20.1-forge.jar",
+            "Name": "copycats-3.0.2+mc.1.20.1-forge.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/copycats-3.0.2+mc.1.20.1-forge.jar",
             "Optional": false
         },
         {
-            "Name": "Corgilib-Forge-1.20.1-4.0.3.3.jar",
-            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/Corgilib-Forge-1.20.1-4.0.3.3.jar",
+            "Name": "Corgilib-Forge-1.20.1-4.0.3.4.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/Corgilib-Forge-1.20.1-4.0.3.4.jar",
             "Optional": false
         },
         {
@@ -466,13 +491,13 @@
             "Optional": false
         },
         {
-            "Name": "corpse-forge-1.20.1-1.0.20.jar",
-            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/corpse-forge-1.20.1-1.0.20.jar",
+            "Name": "corpse-forge-1.20.1-1.0.21.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/corpse-forge-1.20.1-1.0.21.jar",
             "Optional": false
         },
         {
-            "Name": "corpsecurioscompat-1.18.x-1.20.x-Forge-2.2.2.jar",
-            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/corpsecurioscompat-1.18.x-1.20.x-Forge-2.2.2.jar",
+            "Name": "corpsecurioscompat-1.20.x-Forge-3.0.2.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/corpsecurioscompat-1.20.x-Forge-3.0.2.jar",
             "Optional": false
         },
         {
@@ -486,8 +511,8 @@
             "Optional": false
         },
         {
-            "Name": "CrashAssistant-forge-1.19.2-1.20.1-1.8.0.jar",
-            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/CrashAssistant-forge-1.19.2-1.20.1-1.8.0.jar",
+            "Name": "CrashAssistant-forge-1.19.2-1.20.1-1.9.4.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/CrashAssistant-forge-1.19.2-1.20.1-1.9.4.jar",
             "Optional": false
         },
         {
@@ -496,8 +521,8 @@
             "Optional": false
         },
         {
-            "Name": "create-1.20.1-6.0.4.jar",
-            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/create-1.20.1-6.0.4.jar",
+            "Name": "create-1.20.1-6.0.6.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/create-1.20.1-6.0.6.jar",
             "Optional": false
         },
         {
@@ -511,8 +536,8 @@
             "Optional": false
         },
         {
-            "Name": "create_enchantment_industry-1.3.2-for-create-6.0.4.jar",
-            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/create_enchantment_industry-1.3.2-for-create-6.0.4.jar",
+            "Name": "create_enchantment_industry-1.3.3-for-create-6.0.6.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/create_enchantment_industry-1.3.3-for-create-6.0.6.jar",
             "Optional": false
         },
         {
@@ -526,8 +551,8 @@
             "Optional": false
         },
         {
-            "Name": "create_ultimate_factory-2.0.0-forge-1.20.1.jar",
-            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/create_ultimate_factory-2.0.0-forge-1.20.1.jar",
+            "Name": "create_ultimate_factory-2.1.0-forge-1.20.1.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/create_ultimate_factory-2.1.0-forge-1.20.1.jar",
             "Optional": false
         },
         {
@@ -566,8 +591,8 @@
             "Optional": false
         },
         {
-            "Name": "curiouslanterns-1.20.1-1.3.6.jar",
-            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/curiouslanterns-1.20.1-1.3.6.jar",
+            "Name": "curiouslanterns-1.20.1-1.3.7.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/curiouslanterns-1.20.1-1.3.7.jar",
             "Optional": false
         },
         {
@@ -626,6 +651,11 @@
             "Optional": false
         },
         {
+            "Name": "DistantHorizons-fabric-forge-2.3.2-b-1.20.1.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/DistantHorizons-fabric-forge-2.3.2-b-1.20.1.jar",
+            "Optional": true
+        },
+        {
             "Name": "domesticationinnovation-1.7.1-1.20.1.jar",
             "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/domesticationinnovation-1.7.1-1.20.1.jar",
             "Optional": false
@@ -656,8 +686,8 @@
             "Optional": false
         },
         {
-            "Name": "dummmmmmy-1.20-2.0.6.jar",
-            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/dummmmmmy-1.20-2.0.6.jar",
+            "Name": "dummmmmmy-1.20-2.0.7.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/dummmmmmy-1.20-2.0.7.jar",
             "Optional": false
         },
         {
@@ -711,8 +741,8 @@
             "Optional": false
         },
         {
-            "Name": "ElysiumAPI-1.20.1-1.1.2.jar",
-            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/ElysiumAPI-1.20.1-1.1.2.jar",
+            "Name": "ElysiumAPI-1.20.1-1.1.3.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/ElysiumAPI-1.20.1-1.1.3.jar",
             "Optional": false
         },
         {
@@ -736,6 +766,11 @@
             "Optional": false
         },
         {
+            "Name": "enchantmentdisabletag-forge-1.1.0+1.20.1.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/enchantmentdisabletag-forge-1.1.0+1.20.1.jar",
+            "Optional": false
+        },
+        {
             "Name": "endermanoverhaul-forge-1.20.1-1.0.4.jar",
             "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/endermanoverhaul-forge-1.20.1-1.0.4.jar",
             "Optional": false
@@ -756,8 +791,8 @@
             "Optional": false
         },
         {
-            "Name": "enhancedai-2.6.3.jar",
-            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/enhancedai-2.6.3.jar",
+            "Name": "enhancedai-2.6.6.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/enhancedai-2.6.6.jar",
             "Optional": false
         },
         {
@@ -786,8 +821,8 @@
             "Optional": false
         },
         {
-            "Name": "Essential_1-3-6-2_forge_1-20-1.jar",
-            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/Essential_1-3-6-2_forge_1-20-1.jar",
+            "Name": "Essential_1-3-8-1_forge_1-20-1.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/Essential_1-3-8-1_forge_1-20-1.jar",
             "Optional": false
         },
         {
@@ -796,8 +831,8 @@
             "Optional": false
         },
         {
-            "Name": "everycomp-1.20-2.8.6-forge.jar",
-            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/everycomp-1.20-2.8.6-forge.jar",
+            "Name": "everycomp-1.20-2.8.8-forge.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/everycomp-1.20-2.8.8-forge.jar",
             "Optional": false
         },
         {
@@ -836,8 +871,8 @@
             "Optional": false
         },
         {
-            "Name": "FarmersDelight-1.20.1-1.2.7.jar",
-            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/FarmersDelight-1.20.1-1.2.7.jar",
+            "Name": "FarmersDelight-1.20.1-1.2.8.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/FarmersDelight-1.20.1-1.2.8.jar",
             "Optional": false
         },
         {
@@ -901,8 +936,8 @@
             "Optional": false
         },
         {
-            "Name": "flerovium-forge-1.20.1-1.2.13-all.jar",
-            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/flerovium-forge-1.20.1-1.2.13-all.jar",
+            "Name": "flerovium-forge-1.20.1-1.2.14-all.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/flerovium-forge-1.20.1-1.2.14-all.jar",
             "Optional": false
         },
         {
@@ -916,8 +951,8 @@
             "Optional": false
         },
         {
-            "Name": "ForgeEndertech-1.20.1-11.1.6.0-build.0980.jar",
-            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/ForgeEndertech-1.20.1-11.1.6.0-build.0980.jar",
+            "Name": "ForgeEndertech-1.20.1-11.1.7.0-build.1348.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/ForgeEndertech-1.20.1-11.1.7.0-build.1348.jar",
             "Optional": false
         },
         {
@@ -991,8 +1026,8 @@
             "Optional": false
         },
         {
-            "Name": "geckolib-forge-1.20.1-4.7.1.2.jar",
-            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/geckolib-forge-1.20.1-4.7.1.2.jar",
+            "Name": "geckolib-forge-1.20.1-4.7.1.3.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/geckolib-forge-1.20.1-4.7.1.3.jar",
             "Optional": false
         },
         {
@@ -1081,6 +1116,11 @@
             "Optional": false
         },
         {
+            "Name": "horseman-1.20.1-1.3.9-forge.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/horseman-1.20.1-1.3.9-forge.jar",
+            "Optional": false
+        },
+        {
             "Name": "Iceberg-1.20.1-forge-1.1.25.jar",
             "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/Iceberg-1.20.1-forge-1.1.25.jar",
             "Optional": false
@@ -1116,13 +1156,13 @@
             "Optional": false
         },
         {
-            "Name": "insanelib-1.20.3.jar",
-            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/insanelib-1.20.3.jar",
+            "Name": "insanelib-1.21.7.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/insanelib-1.21.7.jar",
             "Optional": false
         },
         {
-            "Name": "invtweaks-1.20.1-1.2.0.jar",
-            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/invtweaks-1.20.1-1.2.0.jar",
+            "Name": "invtweaks-1.20.1-1.2.1.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/invtweaks-1.20.1-1.2.1.jar",
             "Optional": false
         },
         {
@@ -1146,8 +1186,8 @@
             "Optional": false
         },
         {
-            "Name": "Jadens-Nether-Expansion-2.3.2.jar",
-            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/Jadens-Nether-Expansion-2.3.2.jar",
+            "Name": "Jadens-Nether-Expansion-2.3.3.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/Jadens-Nether-Expansion-2.3.3.jar",
             "Optional": false
         },
         {
@@ -1206,8 +1246,8 @@
             "Optional": false
         },
         {
-            "Name": "legendarymonsters-1.9.4 MC 1.20.1.jar",
-            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/legendarymonsters-1.9.4 MC 1.20.1.jar",
+            "Name": "legendarymonsters-1.9.7 MC 1.20.1.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/legendarymonsters-1.9.7 MC 1.20.1.jar",
             "Optional": false
         },
         {
@@ -1231,18 +1271,13 @@
             "Optional": false
         },
         {
-            "Name": "lithostitched-forge-1.20.1-1.4.8.jar",
-            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/lithostitched-forge-1.20.1-1.4.8.jar",
-            "Optional": false
-        },
-        {
             "Name": "lmft-1.0.4+1.20.1-forge.jar",
             "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/lmft-1.0.4+1.20.1-forge.jar",
             "Optional": false
         },
         {
-            "Name": "lootintegrations-1.20.1-4.4.jar",
-            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/lootintegrations-1.20.1-4.4.jar",
+            "Name": "lootintegrations-1.20.1-4.7.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/lootintegrations-1.20.1-4.7.jar",
             "Optional": false
         },
         {
@@ -1331,18 +1366,13 @@
             "Optional": false
         },
         {
-            "Name": "modernfix-forge-5.23.0+mc1.20.1.jar",
-            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/modernfix-forge-5.23.0+mc1.20.1.jar",
+            "Name": "modernfix-forge-5.23.1+mc1.20.1.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/modernfix-forge-5.23.1+mc1.20.1.jar",
             "Optional": false
         },
         {
-            "Name": "moonlight-1.20-2.14.1-forge.jar",
-            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/moonlight-1.20-2.14.1-forge.jar",
-            "Optional": false
-        },
-        {
-            "Name": "morejs-forge-1.20.1-0.10.1.jar",
-            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/morejs-forge-1.20.1-0.10.1.jar",
+            "Name": "moonlight-1.20-2.14.4-forge.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/moonlight-1.20-2.14.4-forge.jar",
             "Optional": false
         },
         {
@@ -1361,8 +1391,8 @@
             "Optional": false
         },
         {
-            "Name": "mowziesmobs-1.7.2.jar",
-            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/mowziesmobs-1.7.2.jar",
+            "Name": "mowziesmobs-1.7.3.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/mowziesmobs-1.7.3.jar",
             "Optional": false
         },
         {
@@ -1376,8 +1406,8 @@
             "Optional": false
         },
         {
-            "Name": "mvs-4.1.4-1.20-forge.jar",
-            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/mvs-4.1.4-1.20-forge.jar",
+            "Name": "mvs-4.1.5-1.20.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/mvs-4.1.5-1.20.jar",
             "Optional": false
         },
         {
@@ -1531,13 +1561,18 @@
             "Optional": false
         },
         {
+            "Name": "particle_core-0.2.6+1.20.1+forge.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/particle_core-0.2.6+1.20.1+forge.jar",
+            "Optional": false
+        },
+        {
             "Name": "particle_effects-1.20.1-Forge-1.0.1.jar",
             "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/particle_effects-1.20.1-Forge-1.0.1.jar",
             "Optional": false
         },
         {
-            "Name": "particular-1.20.1-Forge-1.2.2.jar",
-            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/particular-1.20.1-Forge-1.2.2.jar",
+            "Name": "particular-1.20.1-Forge-1.2.4.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/particular-1.20.1-Forge-1.2.4.jar",
             "Optional": false
         },
         {
@@ -1551,8 +1586,8 @@
             "Optional": false
         },
         {
-            "Name": "PhilipsRuins1.20.1-5.3.jar",
-            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/PhilipsRuins1.20.1-5.3.jar",
+            "Name": "Philips-Ruins1.20.1-5.4.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/Philips-Ruins1.20.1-5.4.jar",
             "Optional": false
         },
         {
@@ -1571,8 +1606,8 @@
             "Optional": false
         },
         {
-            "Name": "plushie_buddies-0.1.5-1.20.1.jar",
-            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/plushie_buddies-0.1.5-1.20.1.jar",
+            "Name": "plushie_buddies-0.1.6-1.20.1.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/plushie_buddies-0.1.6-1.20.1.jar",
             "Optional": false
         },
         {
@@ -1581,8 +1616,8 @@
             "Optional": false
         },
         {
-            "Name": "Ponder-Forge-1.20.1-1.0.0.jar",
-            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/Ponder-Forge-1.20.1-1.0.0.jar",
+            "Name": "Ponder-Forge-1.20.1-1.0.80.0.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/Ponder-Forge-1.20.1-1.0.80.0.jar",
             "Optional": false
         },
         {
@@ -1673,6 +1708,11 @@
         {
             "Name": "recipeessentials-1.20.1-4.0.jar",
             "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/recipeessentials-1.20.1-4.0.jar",
+            "Optional": false
+        },
+        {
+            "Name": "redirected-forge-1.0.0-1.20.1.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/redirected-forge-1.0.0-1.20.1.jar",
             "Optional": false
         },
         {
@@ -1796,8 +1836,8 @@
             "Optional": false
         },
         {
-            "Name": "SkyArena-1.2.5.jar",
-            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/SkyArena-1.2.5.jar",
+            "Name": "SkyArena-1.2.8.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/SkyArena-1.2.8.jar",
             "Optional": false
         },
         {
@@ -1861,8 +1901,8 @@
             "Optional": false
         },
         {
-            "Name": "sophisticatedbackpacks-1.20.1-3.23.18.1247.jar",
-            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/sophisticatedbackpacks-1.20.1-3.23.18.1247.jar",
+            "Name": "sophisticatedbackpacks-1.20.1-3.23.19.1251.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/sophisticatedbackpacks-1.20.1-3.23.19.1251.jar",
             "Optional": false
         },
         {
@@ -1871,8 +1911,8 @@
             "Optional": false
         },
         {
-            "Name": "sophisticatedcore-1.20.1-1.2.66.997.jar",
-            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/sophisticatedcore-1.20.1-1.2.66.997.jar",
+            "Name": "sophisticatedcore-1.20.1-1.2.69.1005.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/sophisticatedcore-1.20.1-1.2.69.1005.jar",
             "Optional": false
         },
         {
@@ -1898,6 +1938,11 @@
         {
             "Name": "sparsestructuresreforged-1.20.1-0.0.1.jar",
             "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/sparsestructuresreforged-1.20.1-0.0.1.jar",
+            "Optional": false
+        },
+        {
+            "Name": "spawnbalanceutility-1.20-46.13.7.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/spawnbalanceutility-1.20-46.13.7.jar",
             "Optional": false
         },
         {
@@ -1936,8 +1981,8 @@
             "Optional": false
         },
         {
-            "Name": "structurify-forge-mc1.20.1-1.0.11.jar",
-            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/structurify-forge-mc1.20.1-1.0.11.jar",
+            "Name": "structurify-forge-1.0.13+mc1.20.1.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/structurify-forge-1.0.13+mc1.20.1.jar",
             "Optional": false
         },
         {
@@ -1946,8 +1991,8 @@
             "Optional": false
         },
         {
-            "Name": "SubtleEffects-forge-1.20.1-1.9.4-hotfix.1.jar",
-            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/SubtleEffects-forge-1.20.1-1.9.4-hotfix.1.jar",
+            "Name": "SubtleEffects-forge-1.20.1-1.11.0.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/SubtleEffects-forge-1.20.1-1.11.0.jar",
             "Optional": false
         },
         {
@@ -1956,8 +2001,8 @@
             "Optional": false
         },
         {
-            "Name": "supplementaries-1.20-3.1.30.jar",
-            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/supplementaries-1.20-3.1.30.jar",
+            "Name": "supplementaries-1.20-3.1.31.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/supplementaries-1.20-3.1.31.jar",
             "Optional": false
         },
         {
@@ -1976,8 +2021,8 @@
             "Optional": false
         },
         {
-            "Name": "TaxTreeGiant+M.1.20.1+ForM.2.1.0.jar",
-            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/TaxTreeGiant+M.1.20.1+ForM.2.1.0.jar",
+            "Name": "TaxTreeGiant+M.1.20.1+ForM.2.1.1.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/TaxTreeGiant+M.1.20.1+ForM.2.1.1.jar",
             "Optional": false
         },
         {
@@ -2026,8 +2071,8 @@
             "Optional": false
         },
         {
-            "Name": "too_many_bows-forge-3.6.1.jar",
-            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/too_many_bows-forge-3.6.1.jar",
+            "Name": "too_many_bows-forge-3.6.6.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/too_many_bows-forge-3.6.6.jar",
             "Optional": false
         },
         {
@@ -2046,8 +2091,8 @@
             "Optional": false
         },
         {
-            "Name": "trading_floor-forge-1.20.1-2.0.3.jar",
-            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/trading_floor-forge-1.20.1-2.0.3.jar",
+            "Name": "trading_floor-forge-1.20.1-2.0.4.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/trading_floor-forge-1.20.1-2.0.4.jar",
             "Optional": false
         },
         {
@@ -2276,8 +2321,8 @@
             "Optional": false
         },
         {
-            "Name": "YungsCaveBiomes-1.20.1-Forge-2.0.4.jar",
-            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/YungsCaveBiomes-1.20.1-Forge-2.0.4.jar",
+            "Name": "YungsCaveBiomes-1.20.1-Forge-2.0.5.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/YungsCaveBiomes-1.20.1-Forge-2.0.5.jar",
             "Optional": false
         },
         {
