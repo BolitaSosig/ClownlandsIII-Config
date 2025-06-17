@@ -17,27 +17,27 @@
     "Resources": [
         {
             "Name": "config",
-            "Id": "4b5353c20b1d40fd990561236476b6078a5dc990ebe7fe7a19e2a8050bbea8c6",
+            "Id": "566571d43b55064960b0a33a1f05859c698ea85fdf5249edfb5d28d2a3c2a65e",
             "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/resources/config.zip"
         },
         {
             "Name": "essential",
-            "Id": "804297d5e8fcb84c7ced5c6f47d7bf858512bc9d35d230a34c56455eff937b10",
+            "Id": "a967b5b7d5325ce6eae3501e0102ef96b6357c5aca01f2f057dc72f7ef00c919",
             "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/resources/essential.zip"
         },
         {
             "Name": "kubejs",
-            "Id": "878b6011e50e5f356948e19b75d51f31f0f27246364a0ffe00187b51f97ed19b",
+            "Id": "e77569a3356222cf88bff8f7e07902a6c95bda21d9393306b31baeee2f399173",
             "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/resources/kubejs.zip"
         },
         {
             "Name": "resourcepacks",
-            "Id": "6c24c2160893812ddbf079208d02dd60fa48b85c663a469e22aa0000d556def8",
+            "Id": "2ed3ab29fd16db83690a2028497b2471fbf1c940b38941a4ec556bbc8e67492e",
             "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/resources/resourcepacks.zip"
         },
         {
             "Name": "shaderpacks",
-            "Id": "5297d8a8c82e3233cf9c5457c18c4c86a2f382e4e55c1a7e959e845898e8ec6a",
+            "Id": "dbb2c27743492f890670b8e8ad66ad863cdd635870633dc9314cb3ab1d173e69",
             "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/resources/shaderpacks.zip"
         }
     ]
