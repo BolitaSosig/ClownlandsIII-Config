@@ -1271,6 +1271,11 @@
             "Optional": false
         },
         {
+            "Name": "lithostitched-forge-1.20.1-1.4.8.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/lithostitched-forge-1.20.1-1.4.8.jar",
+            "Optional": false
+        },
+        {
             "Name": "lmft-1.0.4+1.20.1-forge.jar",
             "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/lmft-1.0.4+1.20.1-forge.jar",
             "Optional": false
@@ -1373,6 +1378,11 @@
         {
             "Name": "moonlight-1.20-2.14.4-forge.jar",
             "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/moonlight-1.20-2.14.4-forge.jar",
+            "Optional": false
+        },
+        {
+            "Name": "morejs-forge-1.20.1-0.10.1.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/morejs-forge-1.20.1-0.10.1.jar",
             "Optional": false
         },
         {
