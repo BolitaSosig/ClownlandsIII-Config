@@ -2344,6 +2344,11 @@
             "Name": "YungsMenuTweaks-1.20.1-Forge-1.0.2.jar",
             "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/YungsMenuTweaks-1.20.1-Forge-1.0.2.jar",
             "Optional": false
+        },
+        {
+            "Name": "tl_skin_cape_forge_1.20_1.20.1-1.32.jar",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/mods/tl_skin_cape_forge_1.20_1.20.1-1.32.jar",
+            "Optional": false
         }
     ]
 }
