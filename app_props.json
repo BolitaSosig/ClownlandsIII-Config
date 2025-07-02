@@ -7,8 +7,8 @@
     ],
     "Ip": [
         "k-we.gl.joinmc.link",
-        "commission-underground.gl.joinmc.link",
-        "temporalIP"
+        "k-we.gl.joinmc.link",
+        "k-we.gl.joinmc.link"
     ],
     "CSName": [
         "bug-free-telegram-g4pq446ppx7gcvj7v",
@@ -53,5 +53,6 @@
             "Id": "dbb2c27743492f890670b8e8ad66ad863cdd635870633dc9314cb3ab1d173e69",
             "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/resources/shaderpacks.zip"
         }
-    ]
+    ],
+    "PS": "ce779be6881d82d764ea4fbb1d737212b02757e569676887423978ff3dbb3dd3"
 }
