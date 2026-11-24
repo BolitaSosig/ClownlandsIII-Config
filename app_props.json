@@ -13,12 +13,12 @@
     "Launcher": [
         {
             "Profile": "dev",
-            "Version": "0.2-beta",
+            "Version": "0.21-beta",
             "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/releases/download/0.2-beta/ClownlandsLauncher-dev.zip"
         },
         {
             "Profile": "rel",
-            "Version": "0.2-beta",
+            "Version": "0.21-beta",
             "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/releases/download/0.2-beta/ClownlandsLauncher.zip"
         }
     ],
@@ -54,6 +54,7 @@
         "0.1-beta",
         "0.15-beta",
         "0.16-beta",
-        "0.2-beta"
+        "0.2-beta",
+        "0.21-beta"
     ]
 }
