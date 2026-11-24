@@ -1,15 +1,7 @@
 {
     "Index": 1,
-    "Id": [
-        "HqY71dPDYVi0ZCLwPlwE6EjZlMU0TR2i6Tmu", 
-        "Ga7Y87A52hn3vgWWe9zOCkUaGbZu4j37Pd3Q",
-        "1FdYfeB0xUwLgHIHdOmD6dXjs9RlTb1hHDxH"
-    ],
-    "Ip": [
-        "k-we.gl.joinmc.link",
-        "k-we.gl.joinmc.link",
-        "k-we.gl.joinmc.link"
-    ],
+    "Id": "cb168e8c-7b3d-4fd7-a59f-9759b789ec2d",
+    "Ip": "malls-rainbow.tun.ply.gg",
     "CSName": [
         "miniature-space-goldfish-x54w55x44vg4hvv4r",
         "ominous-space-journey-g4p64wq4rrpxfv5jv",
@@ -18,7 +10,7 @@
     "Launcher": [
         {
             "Profile": "dev",
-            "Version": "0.2.2",
+            "Version": "0.1-beta",
             "Url": ""
         },
         {
