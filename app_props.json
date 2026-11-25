@@ -1,10 +1,10 @@
 {
     "Index": 1,
-    "Id": "cb168e8c-7b3d-4fd7-a59f-9759b789ec2d",
+    "Id": "a373b5e1-665e-42d1-9252-5744982f6d3e",
     "Ip": "malls-rainbow.tun.ply.gg",
-    "Name": "COÑO SUCULENTO",
+    "Name": "Minecraft - HyturCraft RPG",
     "MCVersion": "1.20.1",
-    "Loader": "Fabric (0.19.3)",
+    "Loader": "Fabric (0.16.10)",
     "CSName": [
         "miniature-space-goldfish-x54w55x44vg4hvv4r",
         "ominous-space-journey-g4p64wq4rrpxfv5jv",

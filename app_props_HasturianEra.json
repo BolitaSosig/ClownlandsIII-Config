@@ -1,0 +1,60 @@
+{
+    "Index": 1,
+    "Id": "cb168e8c-7b3d-4fd7-a59f-9759b789ec2d",
+    "Ip": "malls-rainbow.tun.ply.gg",
+    "Name": "Prominence II - Hasturian Era",
+    "MCVersion": "1.20.1",
+    "Loader": "Fabric (0.19.3)",
+    "CSName": [
+        "miniature-space-goldfish-x54w55x44vg4hvv4r",
+        "ominous-space-journey-g4p64wq4rrpxfv5jv",
+        "potential-space-dollop-5vqjpj7w7wx3pxp"
+    ],
+    "Launcher": [
+        {
+            "Profile": "dev",
+            "Version": "0.22-beta",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/releases/download/0.22-beta/ClownlandsLauncher-dev.zip"
+        },
+        {
+            "Profile": "rel",
+            "Version": "0.22-beta",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/releases/download/0.22-beta/ClownlandsLauncher.zip"
+        }
+    ],
+    "Resources": [
+        {
+            "Name": "config",
+            "Id": "566571d43b55064960b0a33a1f05859c698ea85fdf5249edfb5d28d2a3c2a65e",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/resources/config.zip"
+        },
+        {
+            "Name": "essential",
+            "Id": "a967b5b7d5325ce6eae3501e0102ef96b6357c5aca01f2f057dc72f7ef00c919",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/resources/essential.zip"
+        },
+        {
+            "Name": "kubejs",
+            "Id": "e77569a3356222cf88bff8f7e07902a6c95bda21d9393306b31baeee2f399173",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/resources/kubejs.zip"
+        },
+        {
+            "Name": "resourcepacks",
+            "Id": "2ed3ab29fd16db83690a2028497b2471fbf1c940b38941a4ec556bbc8e67492e",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/resources/resourcepacks.zip"
+        },
+        {
+            "Name": "shaderpacks",
+            "Id": "dbb2c27743492f890670b8e8ad66ad863cdd635870633dc9314cb3ab1d173e69",
+            "Url": "https://github.com/BolitaSosig/ClownlandsIII-Config/raw/refs/heads/main/resources/shaderpacks.zip"
+        }
+    ],
+    "PS": "ce779be6881d82d764ea4fbb1d737212b02757e569676887423978ff3dbb3dd3",
+    "Versions": [
+        "0.1-beta",
+        "0.15-beta",
+        "0.16-beta",
+        "0.2-beta",
+        "0.22-beta"
+    ]
+}
